@@ -9,7 +9,7 @@ Andres Soto
 
 
 In this mini-project, we will be working with a data set of baby names in France. It contains the list of all baby names registered in France, year by year, from 1900 through 2019. There are two data sets: one aggregated to the national level, and another with data by department. 
-Our goal is to create 3 different visualizations around these data, each focussed on answering different kinds of questions about the data:
+Our goal is to create 3 different visualizations around these data, each focused on answering different kinds of questions about the data:
 
 ## Visualization 1: 
 
