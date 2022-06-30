@@ -52,7 +52,7 @@ In the first graph, we can see that the number of names varies by department. In
 In the second graph, we take the example of the department of Paris, and we notice a peak in popularity for the first name "Jean" which occurs more than 140k times. Moreover, only 2 female names exist in the top 10 most popular names in Paris.
 
 
-## Visualization 3 (bonus):
+## Visualization 3 (Altair):
 
 1. Are there gender effects in the data? 
 2. Does popularity of names given to both sexes evolve consistently? 
