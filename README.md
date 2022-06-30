@@ -57,3 +57,7 @@ In the second graph, we take the example of the department of Paris, and we noti
 1. Are there gender effects in the data? 
 2. Does popularity of names given to both sexes evolve consistently? 
 (Note: this data set treats sex as binary; this is a simplification that carries into this assignment but does not generally hold.)
+
+<picture>
+  <img src="https://github.com/IGR204/Baby_names/blob/main/visualization3.png">
+</picture>
