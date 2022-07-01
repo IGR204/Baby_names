@@ -43,7 +43,6 @@ The fourth graph of the dashboard concerns the evolution of the 5 most popular n
 For this part, we chose : 
 - a choropleth map showing the distibution of names per department 
 - a bar chart ordering the most frequent names for each department
--
 <picture>
   <img src="https://github.com/IGR204/Baby_names/blob/main/dash2-1.jpeg">
 </picture>
